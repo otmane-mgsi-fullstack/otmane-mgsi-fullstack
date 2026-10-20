@@ -1,46 +1,18 @@
-Ton positionnement
-- 💻 Full Stack Developer spécialisé dans le développement d’applications web modernes.
-- ⚙️ Backend : Laravel 12, PHP 8, REST APIs, Architecture en couches (Layered Architecture), Service Layer, DTOs, Form Requests, Policies, Traits, Jobs, Queues, Scheduler.
-- 🎨 Frontend : Blade, Bootstrap, JavaScript, HTML5, CSS3.
-- 🗄️ Bases de données : MySQL, conception de bases de données, optimisation des requêtes et modélisation.
-- 🤖 IA & Automatisation : Python, Flask, intégration d’API d’IA (Gemini/OpenAI), automatisation de processus.
-- ☁️ Outils & DevOps : Git, GitHub, Postman, XAMPP, déploiement d’applications Laravel.
-- 🔐 Software Quality & Security : authentification, autorisation, bonnes pratiques de sécurité, validation des données.
-- 🚀 Développement SaaS : conception et développement de solutions complètes (gestion de location de véhicules, SmartClinic, plateformes métier).
-- 🎓 Software Engineering Student (MGSI) avec une approche combinant développement logiciel et systèmes d’information.
-Ce que doit comprendre un recruteur
-En visitant ton GitHub, il devrait penser :
-“Ce développeur maîtrise Laravel en profondeur, sait concevoir une architecture propre, développer des applications Full Stack complètes, créer des solutions SaaS et intégrer des fonctionnalités d’IA.”
-
-Le titre que je te recommande
-Full Stack Developer | Laravel & PHP Engineer
-Software Engineering Student (MGSI)
-Building Modern SaaS & AI-powered Web Applications
-
-Ou une version encore plus orientée développement :
-Full Stack Developer
-Laravel • PHP • JavaScript • MySQL • Python
-Building Scalable SaaS & AI-powered Web Applications
-Software Engineering Student (MGSI)
-
-🎓 Étudiant ingénieur en MGSI (Management et Gouvernance des Systèmes d’Information).
-💻 Développeur Full Stack.
-❤️ Stack principale : Laravel 12, PHP 8, MySQL, Blade, Bootstrap.
-⚡ Tu privilégies une architecture propre (Services, DTOs, Traits, Requests, Policies, Enums, etc.).
-🤖 Intérêt pour l’IA générative (Gemini/OpenAI), Python et Flask.
-🔐 Bonnes bases en cybersécurité.
-📊 Intérêt pour les ERP/CRM et la digitalisation.
-🚀 Tu développes des solutions SaaS réelles (gestion de location de voitures, SmartClinic, etc.).
-📈 Tu veux évoluer vers Software Architect / Technical Project Manager / Entrepreneur, plus que simple développeur.
-
-🌐 Socials:
-[LinkedIn](https://linkedin.com/in/otmane ghayouti) email
-
-💻 Tech Stack:
-CSS3 JavaScript PHP Python Firebase Laravel Vue.js Chart.js Anaconda Flask SQLite MySQL Apache Nginx NumPy scikit-learn TensorFlow
-
-📊 GitHub Stats:
+# 💫 About Me:
+Ton positionnement<br>- 💻 Full Stack Developer spécialisé dans le développement d'applications web modernes.<br>- ⚙️ Backend : Laravel 12, PHP 8, REST APIs, Architecture en couches (Layered Architecture), Service Layer, DTOs, Form Requests, Policies, Traits, Jobs, Queues, Scheduler.<br>- 🎨 Frontend : Blade, Bootstrap, JavaScript, HTML5, CSS3.<br>- 🗄️ Bases de données : MySQL, conception de bases de données, optimisation des requêtes et modélisation.<br>- 🤖 IA & Automatisation : Python, Flask, intégration d'API d'IA (Gemini/OpenAI), automatisation de processus.<br>- ☁️ Outils & DevOps : Git, GitHub, Postman, XAMPP, déploiement d'applications Laravel.<br>- 🔐 Software Quality & Security : authentification, autorisation, bonnes pratiques de sécurité, validation des données.<br>- 🚀 Développement SaaS : conception et développement de solutions complètes (gestion de location de véhicules, SmartClinic, plateformes métier).<br>- 🎓 Software Engineering Student (MGSI) avec une approche combinant développement logiciel et systèmes d'information.<br>Ce que doit comprendre un recruteur<br>En visitant ton GitHub, il devrait penser :<br>"Ce développeur maîtrise Laravel en profondeur, sait concevoir une architecture propre, développer des applications Full Stack complètes, créer des solutions SaaS et intégrer des fonctionnalités d'IA."<br><br>Le titre que je te recommande<br>Full Stack Developer | Laravel & PHP Engineer<br>Software Engineering Student (MGSI)<br>Building Modern SaaS & AI-powered Web Applications<br><br>Ou une version encore plus orientée développement :<br>Full Stack Developer<br>Laravel • PHP • JavaScript • MySQL • Python<br>Building Scalable SaaS & AI-powered Web Applications<br>Software Engineering Student (MGSI)<br><br>🎓 Étudiant ingénieur en MGSI (Management et Gouvernance des Systèmes d'Information).<br>💻 Développeur Full Stack.<br>❤️ Stack principale : Laravel 12, PHP 8, MySQL, Blade, Bootstrap.<br>⚡ Tu privilégies une architecture propre (Services, DTOs, Traits, Requests, Policies, Enums, etc.).<br>🤖 Intérêt pour l'IA générative (Gemini/OpenAI), Python et Flask.<br>🔐 Bonnes bases en cybersécurité.<br>📊 Intérêt pour les ERP/CRM et la digitalisation.<br>🚀 Tu développes des solutions SaaS réelles (gestion de location de voitures, SmartClinic, etc.).<br>📈 Tu veux évoluer vers Software Architect / Technical Project Manager / Entrepreneur, plus que simple développeur.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/otmane ghayouti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:otmane.ghayouti22@ump.ac.ma) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=otmane-mgsi-fullstack&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=otmane-mgsi-fullstack&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=otmane-mgsi-fullstack&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=otmane-mgsi-fullstack&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
