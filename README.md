@@ -1,4 +1,4 @@
-- 🎓 MGSI Engineering Student.
+- 🎓 IT management & Engineering Student.
 - 💻 Full-Stack Developer.
 - 🚀 Building SaaS & Web Applications.
 - 🤖 Interested in AI & Cybersecurity.
