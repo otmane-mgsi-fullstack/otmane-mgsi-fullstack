@@ -1,7 +1,7 @@
 - 🎓 IT management & Engineering Student.
 - 💻 Full-Stack Developer.
 - 🚀 Building SaaS & Web Applications.
-- 🤖 Interested in AI & Cybersecurity.
+- 🤖 Interested in AI & information security.
 - 📈 Passionate about Entrepreneurship.
 
 
